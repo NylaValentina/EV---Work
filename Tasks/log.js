@@ -6,7 +6,6 @@
             exports: {}
         };
         return t(e, e.exports), e.exports // TODO: Need to be fix, please @NylaValentina 
-      // Output is in https://0bin.net/paste/WHrk3vd2#6o8yWpLo8YWcs6RDOsMo5VTmp7P9bIIdtFEE3GwiWEj
     }
     var r = function(t) {
             return t && t.Math == Math && t
